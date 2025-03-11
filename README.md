@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to my Page!
 
-<!--
-**David-cmrg/David-cmrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David. 
+I am very interested in technology and programming!
+I'm currently working on some web development projects.
+See you around!
 
-Here are some ideas to get you started:
+## My Current Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,swift)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+If you wish to contact me, you can reach me at:
+- Email: david.cmrg@proton.me
