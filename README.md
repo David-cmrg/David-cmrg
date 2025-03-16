@@ -6,7 +6,7 @@ I'm currently working on some web development projects.
 See you around!
 
 ## My Current Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,swift,windows)](https://skillicons.dev) (Batch)
 
 ## Contact
 If you wish to contact me, you can reach me at:
