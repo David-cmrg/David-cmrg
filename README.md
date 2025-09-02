@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MeinInfoKurs](https://david-cmrg.github.io/MeinInfoKurs/V2/), which is a Site i am creating to support fellow students with their IT Classes.
 
-- 🌱 I’m also currently learning **Cyber Security and Networking**
+- 🌱 I’m also currently learning **Online Infrastructure**
 
 - 👨‍💻 All of my projects are available at [https://david-cmrg.github.io/](https://david-cmrg.github.io/)
 
@@ -27,3 +27,11 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 <br/>
+<h6>Im currently learning how Cloud Services work.</h6>
+<p align="left">
+<a target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="Azure" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" alt="AWS" width="40" height="40"/> </a>
+</p>
+
+
+
