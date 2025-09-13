@@ -22,9 +22,10 @@
 <a href="https://david-cmrg.github.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://tryhackme.com/p/David.cmrg" target="_blank" rel="noreferrer"> <img src="https://tryhackme.com/favicon.svg" alt="TryHackMe" width="40" height="40"/> </a> 
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.ca1e3cbffbdb38fad2f932b9b83827a8?rik=SEilv9%2btAE9fyQ&pid=ImgRaw&r=0" alt="Arch Linux" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/f/15-157415_windows-10-logo-png.png" alt="Windows 10" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://tryhackme.com/p/David.cmrg" target="_blank" rel="noreferrer"> <img src="https://tryhackme.com/favicon.svg" alt="TryHackMe" width="40" height="40"/> </a> 
 </p>
 <br/>
 <h6>Im currently learning how Cloud Services work.</h6>
