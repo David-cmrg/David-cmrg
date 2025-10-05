@@ -9,7 +9,6 @@
 
 - 📫 How you reach me: **david-cmrg@proton.me**
 
-- ⚡ Fun fact: **I am better than my IT Teacher.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
