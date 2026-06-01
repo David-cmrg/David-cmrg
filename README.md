@@ -2,26 +2,26 @@
 <h4 align="center">Looking forward to understanding System Architecture and Cloud Engineering.</h4><br/>
 
 <h3 align="left">Current Skills:</h3>
-- Intermediate Web Development
-- Java
-- MySQL & PostgreSQL
-- Intermediate Networking
-- Intermediate Linux understandings
+- Intermediate Web Development <br/>
+- Java <br/>
+- MySQL & PostgreSQL <br/>
+- Intermediate Networking <br/>
+- Intermediate Linux understandings <br/>
 
 <h3 align="left">Currently Learning:</h3>
-- Go (Golang)
+- Go (Golang) <br/>
 
 <h3 align="left">Goals:</h3>
-- Understanding advanced System Architecture
-- Expanding my Homelab
-- Learn AWS / Azure
-- Dive more into Kubernetes and Docker
+- Understanding advanced System Architecture <br/>
+- Expanding my Homelab <br/>
+- Learn AWS / Azure <br/>
+- Dive more into Kubernetes and Docker <br/>
 
 <h3 align="left">Tools I use:</h3>
-- Proxmox VE
-- Fedora
-- Docker
-- Hardware Tinkering (Arduino / Raspberry Pi)
+- Proxmox VE <br/>
+- Fedora <br/>
+- Docker <br/>
+- Hardware Tinkering (Arduino / Raspberry Pi) <br/>
 
 
 <h3 align="left">Connect with me:</h3>
